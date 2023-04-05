@@ -11,7 +11,10 @@
 			"${workspaceFolder}"
 		],
 		"files.associations": {
-			"kernel.h": "c"
+			"kernel.h": "c",
+			"random": "c",
+			"*.tcc": "c",
+			"typeinfo": "c"
 		}
 	}
 }
